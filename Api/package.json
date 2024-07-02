@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Paitax/Bravura-ou-Bebida.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-Paitax/Bravura-ou-Bebida/issues"
+  },
+  "homepage": "https://github.com/Pedro-Paitax/Bravura-ou-Bebida#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
